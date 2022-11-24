@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.home-container {
+  background-color: #161625;
+  min-height: 100vh;
+  padding: 15px 36px;
+  color: #ffffff;
+}
+
+.header-heading {
+  color: #2cc6c6;
+}
+.header {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  width: 45px;
+  margin-right: 12px;
+}
+
+.failure-img {
+  width: 280px;
+}
